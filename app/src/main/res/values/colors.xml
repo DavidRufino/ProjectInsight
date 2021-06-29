@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--NEW COLORS-->
+    <color name="primaryColor">#FF6200EE</color>
+    <color name="primaryLightColor">#609bff</color>
+    <color name="primaryDarkColor">#0043a5</color>
+    <color name="secondaryColor">#ffa000</color>
+    <color name="secondaryLightColor">#ffd149</color>
+    <color name="secondaryDarkColor">#c67100</color>
+
+    <color name="colorPrimary">@color/primaryColor</color>
+    <color name="colorPrimaryLight">@color/primaryLightColor</color>
+    <color name="colorPrimaryDark">@color/primaryDarkColor</color>
+    <color name="colorAccent">@color/secondaryColor</color>
+    <color name="colorSecondaryAccent">@color/primaryDarkColor</color>
+
+    <color name="secondaryTextColor">#212121</color>
+    <color name="backgroundLight">#ffffff</color>
+    <!--END NEW COLORS-->
+
+
+    <color name="gray">#BE333333</color>
+    <color name="colorDisponivel">#FF9800</color>
+    <color name="colorSell">#673AB7</color>
+    <color name="colorMoney1">#F44336</color>
+</resources>
